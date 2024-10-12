@@ -80,4 +80,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries, please contact [your_email@example.com](mailto:your_email@example.com).
+For any inquiries, please contact [your_email@example.com](mailto:lsjcwma@gmail.com).
